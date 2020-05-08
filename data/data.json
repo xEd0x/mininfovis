@@ -1,0 +1,42 @@
+[
+	{
+		"color": "yellow",
+		"value": 1
+	},
+	{
+		"color": "pink",
+		"value": 14
+	},
+	{
+		"color": "blue",
+		"value": 13
+	},
+	{
+		"color": "red",
+		"value": 4
+	},
+	{
+		"color": "green",
+		"value": 7
+	},
+	{
+		"color": "orange",
+		"value": 9
+	},
+	{
+		"color": "brown",
+		"value": 12
+	},
+	{
+		"color": "purple",
+		"value": 23
+	},
+	{
+		"color": "black",
+		"value": 11
+	},
+	{
+		"color": "grey",
+		"value": 16
+	}
+]
