@@ -1,4 +1,4 @@
-//dictionary to "translate" numers into colors and vice versa
+//dictionary to "translate" numbers into colors and vice versa
 var colorToValue = {
   yellow: 16,
   pink: 8,
