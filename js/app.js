@@ -13,7 +13,7 @@ var colorToValue = {
 };
 
 var valueToColor = {
-	1: "red",
+  1: "red",
   14: "black",
   13: "orange",
   4: "grey",
