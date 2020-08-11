@@ -3,24 +3,24 @@ var colorToValue = {
   yellow: 4,
   pink: 11,
   blue: 9,
-  red: 16,
-  green: 13,
-  orange: 12,
+  red: 1,
+  green: 12,
+  orange: 13,
   brown: 7,
-  purple: 1,
+  purple: 16,
   black: 14,
   grey: 23
 };
 
 var valueToColor = {
-	1: "red",
+  1: "red",
   14: "black",
   13: "orange",
-  4: "grey",
-  7: "blue",
-  9: "brown",
+  4: "yellow",
+  7: "brown",
+  9: "blue",
   12: "green",
-  23: "yellow",
+  23: "grey",
   11: "pink",
   16: "purple"
 };
