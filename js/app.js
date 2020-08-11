@@ -1,19 +1,19 @@
 //dictionary to "translate" numbers into colors and vice versa
 var colorToValue = {
-  yellow: 16,
-  pink: 8,
-  blue: 4,
-  red: 12,
-  green: 11,
-  orange: 19,
-  brown: 5,
-  purple: 10,
-  black: 18,
-  grey: 21
+  yellow: 4,
+  pink: 11,
+  blue: 9,
+  red: 16,
+  green: 13,
+  orange: 12,
+  brown: 7,
+  purple: 1,
+  black: 14,
+  grey: 23
 };
 
 var valueToColor = {
-  1: "red",
+	1: "red",
   14: "black",
   13: "orange",
   4: "grey",
